@@ -58,14 +58,14 @@ logo ="""
 \033[1;94m█░░\033[1;94m╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
 \033[1;95m█▄▄▄▄▄▄▄▄▄▄▄▄\033[1;96m▄▄▄▄▄▄▄▄
 
-Qaiser\033[1;92m---------------------------------Aryan----------------------------
+Aryan\033[1;92m---------------------------------Aryan----------------------------
                 E R R O R - FIXED UPDATED COMMAND 0.1v
               \033[1;96m｡☆✼★━━━━｡☆✼★━━━━━━━━━━━━★✼☆｡━━━━━━━━★✼☆｡
 \x1b[1;96m-->YouTube  : ARYAN HACK *(New channel)
 \x1b[1;95m-->Facebook : Aryan Hacker
 \x1b[1;94--> Github   : https://github.com/Aryanjan002
 \x1b[1;95--> Creadit : Creadit goes to me ( Aryan Hacker )
-\x1b[1;92m--> Note     : It is only for educational purpose 
+\x1b[1;92m--> Note     : subscribe my YouTube channel for new video 
           \033[1;96m｡☆✼★━━━━━━━━━━━━★✼☆｡｡☆✼★━━━━━━━━━━━━★✼☆｡
           
 \033[1;93m──────▄▄▄▄▄███████████████████▄▄▄▄▄──────
